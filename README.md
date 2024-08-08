@@ -1,2 +1,2 @@
 # Portfolio-Gonzalo-Lamas
-Funcionalidades trabajadas - experiencia adquirida
+Historias de usuario trabajadas en Testing manual (UI). 
